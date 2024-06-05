@@ -1,6 +1,13 @@
-# Tutorial Authen 
-## 1. Authentication With Cookie
+# $${\color{red}Tutorial \space \color{lightblue}Authen \space \color{orange}Author}$$ 
+## 1. Authentication With Cookie 
+> [!NOTE]
+> Done in 5/6/2023
+
+- Only for Web Application.
+- Using Two Layer Authen.
+- Using Custom Authorize
 ## 2. Authentication With JWT
+- Multiple Application.
 ## 3. Authentication With Manage ToKen (Redis) 
 
 - Refresh Token
