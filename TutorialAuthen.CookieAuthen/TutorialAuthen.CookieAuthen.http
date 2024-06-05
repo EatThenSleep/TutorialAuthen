@@ -1,0 +1,6 @@
+@TutorialAuthen.CookieAuthen_HostAddress = http://localhost:5271
+
+GET {{TutorialAuthen.CookieAuthen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
