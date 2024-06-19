@@ -1,4 +1,7 @@
 # $${\color{red}Tutorial \space \color{lightblue}Authen \space \color{orange}Author}$$ 
+## 0. Basic Authentication (not security, not used now)
+- concate string : "username:password" and encode by base 64
+- drawback: can easily find this string and decode to know username and password
 ## 1. Authentication With Cookie 
 > [!NOTE]
 > Done in 5/6/2023
