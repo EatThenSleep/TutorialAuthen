@@ -6,8 +6,8 @@
 - Only for Web Application.
 - Using Two Layer Authen.
 - Using Custom Authorize
-## 2. Authentication With JWT
-- Multiple Application.
+## 2. Token Based Authorization
+- Web API
 ## 3. Authentication With Manage ToKen (Redis) 
 
 - Refresh Token
